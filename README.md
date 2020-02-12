@@ -1,0 +1,2 @@
+# Zcasino
+ A school exercise
